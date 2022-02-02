@@ -6,8 +6,17 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrieloliveira/)](https://www.linkedin.com/in/gabriel-am%C3%A2ncio-de-oliveira/)
 
 
-### About me
-I'm a Computer Engineering student and passionate about technology and robots.
-And I also study programming in Python, JavaScript and C. I also study the frameworks of each language, they are: Django and Node.js.
+###  Sobre mim
+Sou estudante de Engenharia da Computação e apaixonado por tecnologia e robôs.
+ e 
+- 🔭 Atualmente estou trabalhando em meu desenvolvimento pessoal e profissional.
+- 🌱 Atualmente estou aprendendo:
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" height="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="35" height="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="35" height="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" height="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" height="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" height="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" height="35"/>
+- 📫 Como entrar em contato comigo: oliveiragabriel1712@gmail.com
+- 💬 Pergunte-me sobre series, filmes, jogos e curiosidades do universo.
+- ⚡ Curiosidade: 
+  - Apaixonado pelos filmes de Star Wars, Marvel e DC
+  - Herói favorito: Batman
+  - Banda favorita: Pink Floyd 
 
 ## May the force be with you! :v:
