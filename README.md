@@ -1,16 +1,13 @@
-### hello there! 👋
+# :fire: hello there! :fire:
 
-<!--
-**Gabrieloliver99/Gabrieloliver99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Gabriel! :grin:
 
-Here are some ideas to get you started:
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Zattrus)](https://github.com/Zattrus)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrieloliveira/)](https://www.linkedin.com/in/gabriel-am%C3%A2ncio-de-oliveira/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### About me
+I'm a Computer Engineering student and passionate about technology and robots.
+And I also study programming in Python, JavaScript and C. I also study the frameworks of each language, they are: Django and Node.js.
+
+## May the force be with you! :v:
