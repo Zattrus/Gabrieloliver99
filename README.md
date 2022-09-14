@@ -2,7 +2,6 @@
 
 # Hi, I'm Gabriel! :grin:
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Zattrus)](https://github.com/Zattrus)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrieloliveira/)](https://www.linkedin.com/in/gabriel-am%C3%A2ncio-de-oliveira/)
 
 
