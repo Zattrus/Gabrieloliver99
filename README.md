@@ -5,8 +5,8 @@
 ###  Sobre mim
 Sou estudante de Computação, sou apaixonado por tecnologia.
 
-- 🔭 Atualmente estou trabalhando em meu desenvolvimento pessoal e profissional.
-- 🔭 Estou estudando para ser dev fullstack.
+- 🔭 Desenvolvedor FullStack.
+
 ## Main Stacks
 <div style="display: flex; gap: 8px; align-items: center; flex-wrap:wrap;">
   <img alt="Antonio-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
